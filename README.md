@@ -1,1 +1,1 @@
-# Chinese-QA-system based on chinese wiki corpus
+# Chinese-QA-system based on Chinese wiki corpus
